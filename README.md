@@ -1,1 +1,1 @@
-# capstone18-AdversarialTexPlayground2
+AdversarialDNN-Playground2
